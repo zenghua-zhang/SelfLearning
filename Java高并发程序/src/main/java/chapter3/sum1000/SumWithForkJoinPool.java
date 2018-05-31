@@ -1,4 +1,4 @@
-package chapter2.sum1000;
+package chapter3.sum1000;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ForkJoinPool;

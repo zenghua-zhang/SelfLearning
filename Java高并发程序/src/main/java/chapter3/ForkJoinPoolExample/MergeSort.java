@@ -1,4 +1,4 @@
-package chapter2.ForkJoinPoolExample;
+package chapter3.ForkJoinPoolExample;
 
 import java.util.ArrayList;
 import java.util.Arrays;

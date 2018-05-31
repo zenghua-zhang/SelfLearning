@@ -1,4 +1,4 @@
-package chapter2;
+package chapter3;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
